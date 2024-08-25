@@ -1,6 +1,5 @@
 // Sofía Pogliesi 
-// TP1 COM5 
-
+// TP4 COM5 
 // https://youtu.be/mCK2UtbCnv8 
 
 let circulo;
